@@ -5,7 +5,7 @@ Within this repository, you will find only the code written by me, which include
 
 #AG schduler - Modified Process scheduling simulator
 
-This simulator allows you to input a set of processes with the following attributes: process name, burst time, arrival time, priority, and the total number of quantums. Detailed project information is available in the assignment PDS document.
+This simulator allows you to input a set of processes with the following attributes: process name, burst time, arrival time, priority, and the total number of quantums. Detailed project information is available in the assignment PDF document.
 
 ![image](images/input.JPG)
 
