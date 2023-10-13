@@ -3,7 +3,7 @@ In this assignment, we are tasked with simulating the execution and waiting time
 
 Within this repository, you will find only the code written by me, which includes the following scheduling algorithms: AG scheduling, Preemptive priority, and round robin.
 
-#AG schduler - Modified Process scheduling simulator
+## AG schduler - Modified Process scheduling simulator
 
 This simulator allows you to input a set of processes with the following attributes: process name, burst time, arrival time, priority, and the total number of quantums. Detailed project information is available in the assignment PDF document.
 
