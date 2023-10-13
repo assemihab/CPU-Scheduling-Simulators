@@ -1,4 +1,4 @@
-#CPU scheduling simulators
+# CPU scheduling simulators
 In this assignment, we are tasked with simulating the execution and waiting times of various processes using Java, applying the knowledge acquired during the OS course. You can find the description of the assignment in the uploaded document.
 
 Within this repository, you will find only the code written by me, which includes the following scheduling algorithms: AG scheduling, Preemptive priority, and round robin.
