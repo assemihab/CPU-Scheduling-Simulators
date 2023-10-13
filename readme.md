@@ -7,13 +7,13 @@ Within this repository, you will find only the code written by me, which include
 
 This simulator allows you to input a set of processes with the following attributes: process name, burst time, arrival time, priority, and the total number of quantums. Detailed project information is available in the assignment PDF document.
 
-![image](images/input.JPG)
+![image](0. images/input.JPG)
 
 The simulator provides results detailing the activity within the CPU, including start times, end times, the processes executed during CPU bursts, and updated quantums for each process. Additionally, it calculates the waiting and turnaround times for each process and the average waiting and turnaround times for all processes.
 
 **output**
 
-![image](images/output.JPG)
+![image](0. images/output.JPG)
 
 
 to run the project write these commands after installing Java environment
@@ -37,7 +37,7 @@ To use the Preemptive Priority scheduler, you need to provide a set of processes
 
 Here is an example of the input format:
 
-![image](images/PPS.JPG)
+![image](0. images/PPS.JPG)
 
 ### Output
 
@@ -45,7 +45,7 @@ The simulator provides detailed information about the CPU's activity, including 
 
 Here is an example of the output format:
 
-![image](images/PPS output.JPG)
+![image](0. images/PPS output.JPG)
 
 ### Running the Project
 
@@ -70,7 +70,7 @@ To use the Round Robin scheduler, you need to provide a set of processes with th
 
 Here is an example of the input format:
 
-![image](images/RRS_input.JPG)
+![image](0. images/RRS_input.JPG)
 
 ### Output
 
@@ -78,7 +78,7 @@ The Round Robin scheduler provides detailed information about the CPU's activity
 
 Here is an example of the output format:
 
-![image](images/RRS_output.JPG)
+![image](0. images/RRS_output.JPG)
 
 ### Running the Project
 
