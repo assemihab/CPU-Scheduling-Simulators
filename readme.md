@@ -7,13 +7,13 @@ Within this repository, you will find only the code written by me, which include
 
 This simulator allows you to input a set of processes with the following attributes: process name, burst time, arrival time, priority, and the total number of quantums. Detailed project information is available in the assignment PDS document.
 
-(!image)[images/input.jpg]
+(!image)[images/input.JPG]
 
 The simulator provides results detailing the activity within the CPU, including start times, end times, the processes executed during CPU bursts, and updated quantums for each process. Additionally, it calculates the waiting and turnaround times for each process and the average waiting and turnaround times for all processes.
 
 **output**
 
-(!image)[images/output.jpg]
+(!image)[images/output.JPG]
 
 
 to run the project write these commands after installing Java environment
