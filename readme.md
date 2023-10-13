@@ -37,7 +37,7 @@ To use the Preemptive Priority scheduler, you need to provide a set of processes
 
 Here is an example of the input format:
 
-![Input Screenshot](images/PPS.JPG)
+![image](images/PPS.JPG)
 
 ### Output
 
@@ -45,7 +45,7 @@ The simulator provides detailed information about the CPU's activity, including 
 
 Here is an example of the output format:
 
-![Output Screenshot](images/PPS output.JPG)
+![image](images/PPS output.JPG)
 
 ### Running the Project
 
@@ -70,7 +70,7 @@ To use the Round Robin scheduler, you need to provide a set of processes with th
 
 Here is an example of the input format:
 
-![Input Screenshot](images/RRS_input.JPG)
+![image](images/RRS_input.JPG)
 
 ### Output
 
@@ -78,7 +78,7 @@ The Round Robin scheduler provides detailed information about the CPU's activity
 
 Here is an example of the output format:
 
-![Output Screenshot](images/RRS_output.JPG)
+![image](images/RRS_output.JPG)
 
 ### Running the Project
 
